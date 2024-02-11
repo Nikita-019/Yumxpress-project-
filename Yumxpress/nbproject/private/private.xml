@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/UserVarifyFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/ViewFoodFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/dao/CustomerDAO.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/dbutil/DBConnection.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/SellerLoginFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/util/OwnerProfile.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/CustomerOptionFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/dao/PlaceOrderDAO.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/SellerRegestrationFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/DeliveryStaffOptionFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/SellerOptionsFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/ViewOrderFoodFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/OrderFoodFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/AddFoodItemFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/SplashScreenFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/AddDeliveryStaffFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/CustomerRegistrationFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/CustomerOrderHistoryFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/ViewOrderHistoryFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/CustomerAccountFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/CustomerLoginFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/CustomerCartFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/CancelOrderFrame.java</file>
+            <file>file:/C:/Users/Nikita/OneDrive/Desktop/java2023/Yumxpress/src/yumxpress/gui/DeliveryStaffLoginFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
